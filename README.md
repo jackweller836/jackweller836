@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jackweller836
+- 👀 I’m interested in learning Python, JavaScript & HTML
+- 🌱 I’m currently learning JavaScript
